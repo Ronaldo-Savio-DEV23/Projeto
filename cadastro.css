@@ -1,0 +1,139 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-card {
+    width: 45%;
+    margin-left: 28%;
+}
+.card{
+    width: 700px;
+    margin-left: 32%;
+    margin-top: 5%;
+    background-color: #7F9951;
+}
+.facebook {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+    width: 280px;
+    margin-left: 31%;
+    margin-top: 5%;
+    border-radius: 5px;
+    border: none; /* Removendo a borda */
+}
+
+.google {
+    background-color: #ffffff;
+    color: #000000;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    width: 280px;
+    margin-left: 29%;
+    margin-top: 5%;
+    border-radius: 5px;
+    border: none; /* Removendo a borda */
+}
+
+.form-group {
+    margin-bottom: 20px;
+    padding: 3px 8px;
+    margin-left: 27%;
+    border-radius: 5px;
+    border: none; /* Removendo a borda */
+}
+
+
+.login-button {
+    background-color: #3897f0;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 15px;
+    cursor: pointer;
+    width: 200px;
+    margin-left: 35%;
+    margin-top: 5%;
+}
+
+.linha-ou {
+    display: flex;
+    align-items: center;
+}
+
+.linha1 {
+    height: 1px;
+    width: 30%;
+    background-color: #000000c7;
+    margin-left: 87px;
+}
+
+.linha2 {
+    height: 1px;
+    width: 30%;
+    background-color: #000000c7;
+    margin-right: 87px;
+}
+
+.form-group input {
+    padding: 10px;
+    width: 300px;
+    font-size: 13px;
+    border-radius: 5px;
+    border: none;
+}
+
+.form-group button {
+    margin-top: 10px;
+    border: none;
+}
+
+.text-linha {
+    margin: 5%;
+}
+
+#Imagem {
+    width: 400px;
+    height: 600px;
+}
+
+.forgot-password {
+    margin-left: 38%;
+    margin-top: 1%;
+    text-decoration: none;
+}
+
+.forgot-password a {
+    text-decoration: none;
+    color: #704C2C;
+}
+
+.card-2 {
+    width: 400px;
+    margin-left: 20%;
+    margin-top: 4%;
+    text-decoration: none;
+}
+
+.card-2 a {
+    text-decoration: none;
+    color: #704C2C;
+}
+
+.img-card-3 {
+    margin-left: 26%;
+}
+
+.icones {
+    display: flex;
+    flex-direction: row;
+    margin-left: 7%;
+    margin-top: 5%;
+    gap: 1%;
+}
